@@ -1,10 +1,10 @@
 package com.digitalinnovation.personaapistudent.entity;
 
-import com.digitalinnovation.personaapistudent.enums.PhoneType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import com.digitalinnovation.personaapistudent.enums.PhoneType;
 
 import javax.persistence.*;
 
